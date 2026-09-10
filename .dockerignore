@@ -1,0 +1,9 @@
+__pycache__
+.pytest_cache
+*.pyc
+.git
+.gitignore
+Materiais Online.pdf
+Materiais Online2.pdf
+Materiais Online3.pdf
+Materiais Online4.pdf
